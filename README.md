@@ -21,7 +21,7 @@ Installs three skills:
 
 ## Use InboxGuard directly
 
-- **MCP server (Streamable HTTP):** `https://mcp.inboxguard.io/mcp` — 11 tools; discovery is open, `tools/call` needs a bearer API key.
+- **MCP server (Streamable HTTP):** `https://mcp.inboxguard.io/mcp` — 18 tools; discovery is open, `tools/call` needs a bearer API key.
 - **REST API:** `https://api.inboxguard.io` · **OpenAPI 3.1:** <https://inboxguard.io/openapi.json>
 - **TypeScript SDK:** `npm install inboxguard`
 - **Auth:** <https://inboxguard.io/auth.md> · **Developer hub:** <https://inboxguard.io/developers>

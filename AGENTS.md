@@ -23,7 +23,7 @@ corrective DNS records, not just a report.
 
 | Surface | Endpoint | Notes |
 | --- | --- | --- |
-| MCP (Streamable HTTP) | `https://mcp.inboxguard.io/mcp` | 11 tools; the bare host works too. Discovery (`initialize`/`tools/list`) is open; `tools/call` needs a bearer key. |
+| MCP (Streamable HTTP) | `https://mcp.inboxguard.io/mcp` | 18 tools; the bare host works too. Discovery (`initialize`/`tools/list`) is open; `tools/call` needs a bearer key. |
 | REST API | `https://api.inboxguard.io` | OpenAPI 3.1 at <https://inboxguard.io/openapi.json> |
 | TypeScript SDK | `npm install inboxguard` | Thin client over the REST API. |
 | Skills | `npx skills add movaMedia-Inc/inboxguard-skills` | The three skills in this repo. |
